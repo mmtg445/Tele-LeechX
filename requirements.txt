@@ -2,7 +2,7 @@ aiohttp
 aria2p==0.9.1
 beautifulsoup4
 bs4
-cfscrape
+cfscrape==2.1.1
 cloudscraper
 feedparser
 hachoir
@@ -29,5 +29,5 @@ requests
 speedtest-cli
 telegraph
 tgcrypto
-urllib3
+urllib3==1.26.5
 yt-dlp
